@@ -98,6 +98,8 @@ service-worker: true
 
 # Friends
 friends: [
+{title:"",
+href:"https://www.networkworld.com/"}
 #    {
 #        title: "WY",
 #        href: "http://zhengwuyang.com"
